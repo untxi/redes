@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<jnlp spec="1.0+" codebase="https://assessment.netacad.net" href="check/PT-Assessment-Client.jnlp">
+  <information>
+    <title>Cisco Packet Tracer Player for NetSpace</title>
+    <vendor>Cisco Systems, Inc.</vendor>
+    <homepage href="index.html"/>
+    <description>This program allows NetSpace users to launch Packet-Tracer-related activities from NetSpace assessments.</description>
+    <description kind="short">Supports Packet Tracer on assessments.</description>
+  </information>
+  <security>
+      <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.7+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="jars/ptplayer-aurora5-1.jar"/>
+    <jar href="jars/ptplayer-aurora5-2.jar"/>
+    <jar href="jars/ptplayer-aurora5-3.jar"/>
+    <jar href="jars/ptplayer-aurora5-4.jar"/>
+    <jar href="jars/ptplayer-aurora5-5.jar"/>
+    <jar href="jars/ptplayer-aurora5-6.jar"/>
+    <jar href="jars/ptplayer-aurora5-7.jar"/>
+  </resources>
+  <application-desc main-class="xpass.bootstrap.XPassProgram">
+    <argument>null</argument>
+    <argument>vbCBcLTiR/Bjrd1MRMtpdA==</argument>
+    <argument>mbHe15skjkkEELdeZnOSvQ==</argument>
+    <argument>1136841</argument>
+    <argument>checkenvironment</argument>
+    <argument>https://assessment.netacad.net</argument>
+    <argument>null</argument>
+    <argument>null</argument>
+  </application-desc>
+</jnlp> 
