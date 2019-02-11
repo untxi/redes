@@ -1,0 +1,16 @@
+Disene la siguiente red a nivel de direcciones usando la clase 192.168.10.0/24
+
+red	#terminales	
+1	15T
+2	15T
+3	10T
+4	4T
+5	30T
+6	2T
+7	2T
+8	2T
+9	2T
+10	2T
+
+Entregables:
+hoja en excel del diseno, 1 x grupo
